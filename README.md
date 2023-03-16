@@ -1,5 +1,12 @@
 ### Hi there, I'm Mo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18.5px" height="14.5px"/>
 
+#### Key Highlights:
+- 🌱 I’m currently learning Dart, Flutter, and Python.
+- 👯 I’m looking to collaborate with others on open-source Flutter projects, enabling me to improve my skills.
+<!-- - ⚡ Fun fact: I love listening to music -->
+
+
+
 <!--
 **MoyinShabi/MoyinShabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
