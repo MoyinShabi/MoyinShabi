@@ -1,9 +1,9 @@
-## Hi there, I'm Mo👋
+### Hi there, I'm Mo 👋
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px" height="14.5px"/>
  --->
 
 
-### Key Highlights:
+#### Key Highlights:
 - 👩‍💻 I’m currently learning Dart, Flutter, and Python.
 - 🤝 I’m looking to collaborate with others on open-source Flutter projects, enabling me to improve my skills.
 - 🙋‍♀️ I'm open to Software Engineering Internships.
